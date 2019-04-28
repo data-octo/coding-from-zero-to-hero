@@ -95,6 +95,7 @@ Advanced: Data Structure and Algorithms (Matplotlib)
 ### Javascript Couses
 * [Khan Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 
+---
 
 ### [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
 The Canadian Computing Competition (CCC) is a fun challenge for secondary school students with an interest in programming. It is an opportunity for students to test their ability in designing, understanding and implementing algorithms.
