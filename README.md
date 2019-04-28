@@ -13,6 +13,12 @@
 * [Wix](https://www.wix.com) registration for website building
 * [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
 
+
+### Good to know
+- [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
+- Vim
+
 ---
 
 ### Beginner
