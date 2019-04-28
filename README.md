@@ -4,7 +4,7 @@
 ### Levels
 * Beginner：iMovie，Keynote, Wix
 * Intermediate：Scratch,  Python, HTML/JavaScript/CSS
-* Advanced：OOP, Algorithms
+* Advanced：OOP, Algorithms, Games
 * Expert: Data Analysis, Machine Learning, Deep Learning
 
 ### Prerequisites
