@@ -3,13 +3,14 @@
 
 ### Levels
 * Beginner：iMovie，Keynote, Wix
-* Intermediate：Scratch,  Python, JavaScript
+* Intermediate：Scratch,  Python, HTML/JavaScript/CSS
 * Advanced：OOP, Algorithms
+* Expert: Data Analysis, Machine Learning, Deep Learning
 
 ### Prerequisites
 * [Laptop](https://www.amazon.ca/s/gp/search/ref=sr_nr_p_89_5?fst=as%3Aoff&rh=n%3A667823011%2Cn%3A2404990011%2Cn%3A677252011%2Ck%3Alaptop%2Cp_36%3A12035764011%2Cp_n_feature_five_browse-bin%3A7326865011%7C7326866011&keywords=laptop&ie=UTF8&qid=1546931643)(Mac or Windows) with Web Cam and Microphone
 * [Scratch](https://scratch.mit.edu/) registration for blocks coding
-* [Wix]() registration for website building
+* [Wix](https://www.wix.com) registration for website building
 * [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
 
 ### Beginner
@@ -104,6 +105,6 @@ The Canadian Computing Competition (CCC) is a fun challenge for secondary school
 
 每一届的CCC竞赛均分为两个阶段. 第一阶段, 即初赛阶段, 在各报名选手所在的学校举行. 初赛阶段有分JUNIOR组和SENIOR组. JUNIOR组的学生限定与在学校只修过一个学分的计算机课程, 并不限定与学生所在的年级.其他人则只能参加SENIOR组. 同时, 根据这边的鼓励早出人才的一贯政策, 任何学生均可参加SENIOR组. 第二阶段, 相当于决赛阶段, 在Waterloo 大学举行, 进行两天. 在第一阶段的SENIOR组的前25名选手才有资格进入第二阶段. 而加拿大参加国际奥林匹克计算机竞赛的代表队便由第二阶段产生.
 
-
+### Start-up project
 ￼
 
