@@ -13,6 +13,8 @@
 * [Wix](https://www.wix.com) registration for website building
 * [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
 
+---
+
 ### Beginner
 - iMovie: Video Making
 
