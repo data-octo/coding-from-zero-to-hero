@@ -116,4 +116,8 @@ The Canadian Computing Competition (CCC) is a fun challenge for secondary school
 
 ### Start-up project
 ￼
-
+- Scratch Games
+- Python Turtle Patterns
+- Python Pygame Games
+- Python Financial Data Analysis
+- Python Stock Price Predict
