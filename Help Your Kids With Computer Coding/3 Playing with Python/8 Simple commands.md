@@ -1,1 +1,1 @@
-
+At fist glance, Python can look quite scary, especially compared to Scratch.  However the two languages aren’t actually as different as they seem. he is a guide too the similarities between basic commands in Python and Scratch
