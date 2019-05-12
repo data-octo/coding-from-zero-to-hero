@@ -1,0 +1,4 @@
+- What maakes a good game?
+- Atmosphere
+- Types of games
+- How coding works
