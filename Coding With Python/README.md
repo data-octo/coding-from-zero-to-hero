@@ -61,4 +61,4 @@ That’s not the case with Python, which powers the world’s second-largest sea
 	• Code Introspection
 	• Closures
 	• Decorators
-  • Map, Filter, Reduce
+	• Map, Filter, Reduce
