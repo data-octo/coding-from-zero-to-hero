@@ -24,6 +24,26 @@ That’s not the case with Python, which powers the world’s second-largest sea
 
 ### How to learn Python
 
+##### What’s the Best Way for Kids to Learn Python?
+There are so many different ways for kids to learn programming with Python or any other language. With such an array of tools available, it can be difficult to choose those that are most effective.
+Thankfully, scientists have been studying the ways people learn for decades and have found some interesting clues about what works and what doesn’t.
+
+##### Gamification Encourages Kids to Stay With It.
+Motivation is a key component of successful learning. Without the proper incentives, students are likely to get bored and abandon a subject long before they’ve become proficient. This is why gamification is now so popular in online and live classrooms.
+Score-keeping, competition and rewards are great ideas for holding kids’ attention and teaching them everything from algebra to programming in Python.
+When searching for online Python courses, boot camps and live workshops for your child, look for those that incorporate gamification.
+##### An Easy Introduction Prevents Kids from Feeling Overwhelmed.
+Some kids might feel like they just don’t have what it takes to learn Python. The strange combinations of words and punctuation can seem impossible to decipher to a beginner. It’s easy to feel overwhelmed. But learning the basics of Python isn’t nearly as difficult as it may appear.
+The key is to ease into learning by working with small chunks of information at a time. If the information is organized into some highly visual format, that’s even better.
+The best coding books for kids are divided into short segments with plenty of pictures and small bits of text. Some coding classes offer short lessons that kids can complete in just a few minutes. These are perfect ways to introduce the Python programming language to young learners.
+##### Project-Based Learning Gets Kids Engaged.
+Some of the biggest names in technology got started in coding because they wanted to build simple programs for themselves, their friends or their family members.
+Mark Zuckerberg, Bill Gates and Steve Jobs are just a few examples of people who got excited about coding by building small but fun and personal projects. Dreaming up a game or website and then figuring out how to build it might be the most effective way to master a programming language.
+It’s often necessary to learn most of the basics before beginning, but it’s easily possible to be proficient enough to build impressive programs in just a couple of weeks.
+##### Practice is a Must.
+Python programming is just like any other skill in that it requires frequent practice. Kids who regularly use their Python skills to build projects and solve problems will retain their knowledge, while those who don’t are likely to forget most of what they’ve learned in a very short time. Practice is crucial, so make sure your child has regular opportunities to use Python.
+
+### Start Coding
 ##### Set up environment
 
 - Online IDE
