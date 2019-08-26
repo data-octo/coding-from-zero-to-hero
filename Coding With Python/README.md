@@ -13,3 +13,12 @@
 ### What is Python
 
 ### How to learn Python
+
+##### Set up environment
+
+- Online IDE
+  - Kaggle
+  - Google Colab
+  - Azure Notebook
+- Local Install
+  - Anaconda
