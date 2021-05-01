@@ -9,7 +9,7 @@ var winston = {
   },
 };
 
-fill(255, 255, 255);
+fill(255, 255, 0);
 
 textSize(16);
 text("All about Winston:", 10, 30);
