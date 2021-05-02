@@ -11,6 +11,8 @@ After learning the course, you will be able to write compupter programs with con
 
 Video: 
 
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
 [Python Tutorials for Beginners - Learn Python Online](https://www.youtube.com/watch?v=yE9v9rt6ziw)
 
 TABLE OF CONTENT

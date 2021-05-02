@@ -1,4 +1,6 @@
+### Video
 
+https://www.khanacademy.org/computing/computer-programming
 ### Prerequisites
 
 #### Install VSCode extension: p5canvas
