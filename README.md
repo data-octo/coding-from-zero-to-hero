@@ -7,8 +7,8 @@
 
 
 ### Levels
-* Beginner：iMovie，Keynote, Wix
-* Intermediate：Scratch,  Python, HTML/JavaScript/CSS
+* Interest：iMovie，Keynote, Scratch, Wix
+* Beginner：  Python, PyGame, Turtle, JavaScript, Roblox
 * Advanced：OOP, Algorithms, Games
 * Expert: Data Analysis, Machine Learning, Deep Learning
 
