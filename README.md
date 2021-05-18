@@ -1,6 +1,11 @@
 # Happy Coding Kids
 
 
+### Schedule
+![picture 1](images/2ca509416c865aafa886734dcd509b41bb8f39e5ec79a8dd6ca932e7917c2a68.png)  
+
+
+
 ### Levels
 * Beginner：iMovie，Keynote, Wix
 * Intermediate：Scratch,  Python, HTML/JavaScript/CSS
