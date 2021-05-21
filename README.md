@@ -22,33 +22,24 @@
 ### Good to know
 - [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
-- Vim
+- [VSCode](https://code.visualstudio.com/download)
 
 ---
 
-### Beginner
+### Interest
 - iMovie: Video Making
 - Keynote: Prototyping
 - Wix: Website Building
 
-### Intermediate
+### Beginner
 - Scratch: Coding Blocks
-- Python: Basic
+- Python: Coding Basics
+- JavaScript: Animation
 
 
 ### Advanced
 - Python:  OOP, Data Analysis
 
----
-
-### [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
-The Canadian Computing Competition (CCC) is a fun challenge for secondary school students with an interest in programming. It is an opportunity for students to test their ability in designing, understanding and implementing algorithms.
-
-加拿大计算机竞赛（Canadian Computing Competition，简称CCC）是加拿大面向中学生每年举办一次的计算机程序设计比赛，比赛的目的是为大中学生朋友们提供一个机会来测试自己分析、设计以及编程实现算法的能力。
-
-加拿大全国中学生计算机竞赛(Canadian Computing Competition) 是由Waterloo 大学计算机系与加拿大数学与计算机教育中心联合举办的全加计算机竞赛, 简称CCC竞赛. 至今已举办了11届. 该竞赛的目的有两个, 一是给中学生一个机会以发展他们的计算机编程和算法设计能力, 另一个目的就是选拔选手组成加拿大代表队参加当年的国际奥林匹克计算机竞赛. CCC一般每年二月份开始举行第一阶段竞赛.
-
-每一届的CCC竞赛均分为两个阶段. 第一阶段, 即初赛阶段, 在各报名选手所在的学校举行. 初赛阶段有分JUNIOR组和SENIOR组. JUNIOR组的学生限定与在学校只修过一个学分的计算机课程, 并不限定与学生所在的年级.其他人则只能参加SENIOR组. 同时, 根据这边的鼓励早出人才的一贯政策, 任何学生均可参加SENIOR组. 第二阶段, 相当于决赛阶段, 在Waterloo 大学举行, 进行两天. 在第一阶段的SENIOR组的前25名选手才有资格进入第二阶段. 而加拿大参加国际奥林匹克计算机竞赛的代表队便由第二阶段产生.
 
 ### Start-up project
 ￼
@@ -127,3 +118,13 @@ Advanced: Data Structure and Algorithms (Matplotlib)
 * [Khan Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 
 
+---
+
+### [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
+The Canadian Computing Competition (CCC) is a fun challenge for secondary school students with an interest in programming. It is an opportunity for students to test their ability in designing, understanding and implementing algorithms.
+
+加拿大计算机竞赛（Canadian Computing Competition，简称CCC）是加拿大面向中学生每年举办一次的计算机程序设计比赛，比赛的目的是为大中学生朋友们提供一个机会来测试自己分析、设计以及编程实现算法的能力。
+
+加拿大全国中学生计算机竞赛(Canadian Computing Competition) 是由Waterloo 大学计算机系与加拿大数学与计算机教育中心联合举办的全加计算机竞赛, 简称CCC竞赛. 至今已举办了11届. 该竞赛的目的有两个, 一是给中学生一个机会以发展他们的计算机编程和算法设计能力, 另一个目的就是选拔选手组成加拿大代表队参加当年的国际奥林匹克计算机竞赛. CCC一般每年二月份开始举行第一阶段竞赛.
+
+每一届的CCC竞赛均分为两个阶段. 第一阶段, 即初赛阶段, 在各报名选手所在的学校举行. 初赛阶段有分JUNIOR组和SENIOR组. JUNIOR组的学生限定与在学校只修过一个学分的计算机课程, 并不限定与学生所在的年级.其他人则只能参加SENIOR组. 同时, 根据这边的鼓励早出人才的一贯政策, 任何学生均可参加SENIOR组. 第二阶段, 相当于决赛阶段, 在Waterloo 大学举行, 进行两天. 在第一阶段的SENIOR组的前25名选手才有资格进入第二阶段. 而加拿大参加国际奥林匹克计算机竞赛的代表队便由第二阶段产生.
