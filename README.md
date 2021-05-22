@@ -1,10 +1,10 @@
 # Happy Coding Kids
 
 ## Levels
-* Interest：iMovie，Keynote, Scratch, Wix
-* Beginner：Python, PyGame, Turtle, JavaScript, Roblox
-* Advanced：OOP, Algorithms, Games
-* Expert: Data Analysis, Algorithm Trading
+* **Interest**：iMovie，Keynote, Scratch, Wix
+* **Beginner**：Python, PyGame, Turtle, JavaScript, Roblox
+* **Advanced**：OOP, Algorithms, Games
+* **Expert**: Data Analysis, Algorithm Trading
 
 ## Schedule
 
@@ -14,19 +14,20 @@
 ## Prerequisites
 
 ### Hardware 
-* [Computer](https://www.amazon.ca/s/gp/search/ref=sr_nr_p_89_5?fst=as%3Aoff&rh=n%3A667823011%2Cn%3A2404990011%2Cn%3A677252011%2Ck%3Alaptop%2Cp_36%3A12035764011%2Cp_n_feature_five_browse-bin%3A7326865011%7C7326866011&keywords=laptop&ie=UTF8&qid=1546931643)(Mac or Windows) with Web Cam and Microphone
+* Computer: Desktop, Laptop, Tablet
+* Internet
 
-### Software Install
-* [VSCode](https://code.visualstudio.com/download)
-* [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
+### Software Installation
+* Coding IDE: [VSCode](https://code.visualstudio.com/download)
+* Python Coding: [Anaconda](https://www.anaconda.com/download/#macos)
 
 ### Software Online 
-* [Scratch](https://scratch.mit.edu/) registration for blocks coding
-* [Wix](https://www.wix.com) registration for website building
+* Scratch Coding: [Scratch](https://scratch.mit.edu/)
+* Website Building: [Wix](https://www.wix.com) 
 
 ### Good to know
-- [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
+- Repository Management: [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- Documentation: [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
 
 
 ## Handson Projects
