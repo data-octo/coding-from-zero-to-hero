@@ -1,58 +1,39 @@
 # Happy Coding Kids
 
+## Levels
+* Interest：iMovie，Keynote, Scratch, Wix
+* Beginner：Python, PyGame, Turtle, JavaScript, Roblox
+* Advanced：OOP, Algorithms, Games
+* Expert: Data Analysis, Algorithm Trading
 
-### Schedule
+## Schedule
+
+### Beginner Courses
 ![picture 1](images/2ca509416c865aafa886734dcd509b41bb8f39e5ec79a8dd6ca932e7917c2a68.png)  
 
-
-
-### Levels
-* Interest：iMovie，Keynote, Scratch, Wix
-* Beginner：  Python, PyGame, Turtle, JavaScript, Roblox
-* Advanced：OOP, Algorithms, Games
-* Expert: Data Analysis, Machine Learning, Deep Learning
-
-### Prerequisites
+## Prerequisites
 * [Laptop](https://www.amazon.ca/s/gp/search/ref=sr_nr_p_89_5?fst=as%3Aoff&rh=n%3A667823011%2Cn%3A2404990011%2Cn%3A677252011%2Ck%3Alaptop%2Cp_36%3A12035764011%2Cp_n_feature_five_browse-bin%3A7326865011%7C7326866011&keywords=laptop&ie=UTF8&qid=1546931643)(Mac or Windows) with Web Cam and Microphone
 * [Scratch](https://scratch.mit.edu/) registration for blocks coding
 * [Wix](https://www.wix.com) registration for website building
 * [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
 
-
-### Good to know
+## Good to know
 - [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
 - [VSCode](https://code.visualstudio.com/download)
 
----
-
-### Interest
-- iMovie: Video Making
-- Keynote: Prototyping
-- Wix: Website Building
-
-### Beginner
-- Scratch: Coding Blocks
-- Python: Coding Basics
-- JavaScript: Animation
-
-
-### Advanced
-- Python:  OOP, Data Analysis
-
-
-### Start-up project
-￼
+## Starting Projects
 - Youtube Videos
 - Ecommerce Websites
 - Scratch Games
-- Python Turtle Patterns
+- Python Turtle Drawings
 - Python Pygame Games
 - Python Financial Data Analysis
-- Python Stock Price Predict
+- Python Algorithm Trading
 
---- 
+## Courses Design
 
+### Interest
 
 **iMovie - Create videos for Youtube**
 * Lesson 1:
@@ -88,7 +69,8 @@
 * Lesson 2: Enhance website with components
 * Lesson 3: Publish website and link to domain name
 * Lesson 4: Learn html, css, and javascript
-### Scratch Courses:
+
+**Scratch Courses**
 
 * 	[Square](https://www.youtube.com/watch?v=EbBbWfvbMiU)
 * 	[Polygons](https://www.youtube.com/watch?v=KFwgPVjMjak)
@@ -97,30 +79,22 @@
 * 	[Haunting adventure game]() 
 * 	[Street Fighter game]() 
 
-### Python Courses:
-
-Beginner: Variable, Control, Function (Turtle)
+### Beginner
 
 * [Learning to Code with Python](https://www.youtube.com/playlist?list=PLsk-HSGFjnaGe7sS_4VpZoEtZF2VoWtoR)
 * [Let's Learn Python: Basics](https://www.youtube.com/playlist?list=PL82YdDfxhWsDJTq5f0Ae7M7yGcA26wevJ)
 
-Intermediate: Object Oriented Programming (Pygame)
+### Advanced
 
-* [Game Development with Pygame](https://www.youtube.com/playlist?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw)
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-
-Advanced: Data Structure and Algorithms (Matplotlib) 
-
+* [Game Development with Pygame](https://www.youtube.com/playlist?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw)
 * [Data Structure](https://www.raspberrypi.org/learning/visualising-sorting-with-python/lessons/)
 * [Algorithms](http://interactivepython.org )
 
-### Javascript Couses
-* [Khan Computer Programming](https://www.khanacademy.org/computing/computer-programming)
-
-
 ---
 
-### [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
+## [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
+
 The Canadian Computing Competition (CCC) is a fun challenge for secondary school students with an interest in programming. It is an opportunity for students to test their ability in designing, understanding and implementing algorithms.
 
 加拿大计算机竞赛（Canadian Computing Competition，简称CCC）是加拿大面向中学生每年举办一次的计算机程序设计比赛，比赛的目的是为大中学生朋友们提供一个机会来测试自己分析、设计以及编程实现算法的能力。

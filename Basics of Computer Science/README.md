@@ -1,6 +1,6 @@
 # Basics of Computer Science
 
-Book from [DK](https://www.dk.com/us/book/9781465419569-help-your-kids-with-computer-coding/).
+Book from [DK Help Your Kids with Computer Science](https://www.amazon.ca/Help-Your-Kids-Computer-Science/dp/1465473602).
 
 Video: [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 
