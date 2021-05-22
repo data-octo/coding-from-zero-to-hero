@@ -4,7 +4,7 @@ Book from [DK Help Your Kids with Computer Science](https://www.amazon.ca/Help-Y
 
 Video: [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 
-### About Help Your Kids with Computer Coding
+## About Help Your Kids with Computer Coding
 
 Don't just play computer games with your kids-build them! All you need is a desktop or laptop with Adobe 10.2 or later, and an internet connection to download Scratch 2.0 and Python 3. Coding with Scratch can be done without download on [https://scratch.mit.edu](https://scratch.mit.edu).
 
@@ -15,3 +15,5 @@ Kids can create online games to play like Monkey Mayhem and Bubble Blaster, draw
 Packed with visual examples, expert tips, a glossary of key terms, and extras such as profiles of famous coders, Help Your Kids with Computer Coding lays a hands-on foundation for coding so adults and kids can learn together.
 
 Supporting STEM education initiatives, computer coding teaches kids how to think creatively, work collaboratively, and reason systematically, and is quickly becoming a necessary and sought-after skill. DK's computer coding books are full of fun exercises with step-by-step guidance, making them the perfect introductory tools for building vital skills in computer programming.
+
+![picture 1](../images/643485dd1076ae01a1f5813b051f9ac0f41612d2d6c0161457604301b5134464.png)  
