@@ -30,7 +30,7 @@
 - Documentation: [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
 
 
-## Handson Projects
+## Hands on Projects
 - Youtube Videos
 - Ecommerce Websites
 - Scratch Games
