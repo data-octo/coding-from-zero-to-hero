@@ -8,11 +8,13 @@ After learning the course, you will be able to write compupter programs with con
 
 ## Course Material
 
+### Book
+
 [Online Book: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 
 [Book: Learn Python in One Day and Learn It Well](https://www.amazon.ca/Python-Beginners-Hands-Project-Project-ebook/dp/B00R9JPDN4)
 
-Video: 
+### Video
 
 [6 hour Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
