@@ -6,8 +6,9 @@ Learn basic coding concept with python programming language with 12 lessons, 30 
 
 After learning the course, you will be able to write compupter programs with conditions, loops, and functions. And this will build foundation for further computer coding studying. 
 
+[Online Book: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 
-[Python: Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)](https://www.amazon.ca/Python-Beginners-Hands-Project-Project-ebook/dp/B00R9JPDN4)
+[Book: Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)](https://www.amazon.ca/Python-Beginners-Hands-Project-Project-ebook/dp/B00R9JPDN4)
 
 Video: 
 
@@ -199,7 +200,11 @@ TABLE OF CONTENT
 
 **6 - Package and Modules**
 
-- PyAutoGUI
+**PyAutoGUI** 
+
+[Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation](https://automatetheboringstuff.com/chapter18/)
+
+[Book: Automate the Boring Stuff with Python : Practical Programming for Total Beginners](https://www.thriftbooks.com/w/automate-the-boring-stuff-with-python-practical-programming-for-total-beginners_albert-sweigart/9839984/item/18071476/?gclid=EAIaIQobChMIs--05_Ld8AIVHQ2tBh2AIwLiEAYYASABEgJs0fD_BwE#idiq=18071476&edition=9279678)
 
 **7 - Files**
 
