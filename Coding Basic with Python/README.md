@@ -6,17 +6,19 @@ Learn basic coding concept with python programming language with 12 lessons, 30 
 
 After learning the course, you will be able to write compupter programs with conditions, loops, and functions. And this will build foundation for further computer coding studying. 
 
+## Course Material
+
 [Online Book: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 
-[Book: Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)](https://www.amazon.ca/Python-Beginners-Hands-Project-Project-ebook/dp/B00R9JPDN4)
+[Book: Learn Python in One Day and Learn It Well](https://www.amazon.ca/Python-Beginners-Hands-Project-Project-ebook/dp/B00R9JPDN4)
 
 Video: 
 
-https://www.youtube.com/watch?v=_uQrJ0TkZlc
+[6 hour Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
-[Python Tutorials for Beginners - Learn Python Online](https://www.youtube.com/watch?v=yE9v9rt6ziw)
+[2 hour Python Tutorials for Beginners - Learn Python Online](https://www.youtube.com/watch?v=yE9v9rt6ziw)
 
-TABLE OF CONTENT
+## TABLE OF CONTENT
 
 **1 - Python Introduction and Setup**
 
