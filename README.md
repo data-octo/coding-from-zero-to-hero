@@ -40,7 +40,7 @@
 
 ## Courses Design
 
-### Interest
+### Interest Courses Videos
 
 **iMovie - Create videos for Youtube**
 
@@ -56,7 +56,7 @@
 
 * 	[Wix Tutorial 2021(Full Tutorial For Beginners) - Create A Professional Website](https://www.youtube.com/watch?v=nIKbN5pBSXo)
 
-**Scratch Courses**
+**Scratch**
 
 * 	[Square](https://www.youtube.com/watch?v=EbBbWfvbMiU)
 * 	[Polygons](https://www.youtube.com/watch?v=KFwgPVjMjak)
