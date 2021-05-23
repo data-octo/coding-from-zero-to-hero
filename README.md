@@ -65,21 +65,21 @@ This course is intended for kids to learn computer coding and be able to solve r
 
 ### Interest Courses Videos
 
-**iMovie - Create videos for Youtube**
+iMovie - Create videos for Youtube
 
 * 	[iMovie Complete Guide to Getting Started - Editing Tutorial For Beginners (2021)](https://www.youtube.com/watch?v=eyNcc5EpXkM)
 
-* 	[iMovie 2020 **FULL TUTORIAL**](https://www.youtube.com/watch?v=ljAWrpmEFoU)
+* 	[iMovie 2020 FULL TUTORIAL](https://www.youtube.com/watch?v=ljAWrpmEFoU)
 
-**Keynote - Create prototype for business ideas**
+Keynote - Create prototype for business ideas
 
 * 	[How To Animate In Keynote (Beginners Tutorial)](https://www.youtube.com/watch?v=GTVFw3CzYUA)
 
-**Wix - Create website for e-commerce**
+Wix - Create website for e-commerce
 
 * 	[Wix Tutorial 2021(Full Tutorial For Beginners) - Create A Professional Website](https://www.youtube.com/watch?v=nIKbN5pBSXo)
 
-**Scratch - Create games with coding blocks**
+Scratch - Create games with coding blocks
 
 * 	[Square](https://www.youtube.com/watch?v=EbBbWfvbMiU)
 * 	[Polygons](https://www.youtube.com/watch?v=KFwgPVjMjak)
