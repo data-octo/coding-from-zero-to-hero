@@ -1,26 +1,32 @@
 # Happy Coding Kids
 
+This course is intended for kids to learn computer coding and be able to solve real world problems with programming languages. Learning to code is very much like learning a new language – it gives kids a fluency not just in technology, but also in the language of creativity. Programming is part of the development of a valuable technical and creative skill set that will grow with them into adulthood, enabling them to thrive in our ever growing digital world.
+
 ## Levels
 
 ### Interest
+* Audience: Age 6 - 10 
 * Target: Understand use of computer software and be able to create vidoes, presentations, websites and coding blocks
 * Courses: iMovie，Keynote, Scratch, Wix
 * Time: 12 months
   
 ### Beginner
+* Audience: Age 10 - 13 
 * Target: Understand basic computer coding and be able to solve math problems as well as create online games
 * Courses: Python, PyGame, Turtle, JavaScript, Roblox
 * Time: 12 months
 
 ### Advanced
+* Audience: Age 13 - 15 
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
 * Courses: OOP, Algorithms
 * Time: 12 months
   
 ### Expert
+* Audience: Age 15+ 
 * Target: Understand data analysis and be able to build portfolio management and algorithm trading
 * Courses: Data Analysis, Algorithm Trading
-* Time: 12 momths
+* Time: 12 months
 
 ## Schedule
 
