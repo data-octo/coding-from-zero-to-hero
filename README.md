@@ -1,10 +1,26 @@
 # Happy Coding Kids
 
 ## Levels
-* **Interest**：iMovie，Keynote, Scratch, Wix
-* **Beginner**：Python, PyGame, Turtle, JavaScript, Roblox
-* **Advanced**：OOP, Algorithms, Games
-* **Expert**: Data Analysis, Algorithm Trading
+
+### Interest
+* Target: Understand use of computer software and be able to create vidoes, presentations, websites and coding blocks
+* Courses: iMovie，Keynote, Scratch, Wix
+* Time: 12 months
+  
+### Beginner
+* Target: Understand basic computer coding and be able to solve math problems as well as create online games
+* Courses: Python, PyGame, Turtle, JavaScript, Roblox
+* Time: 12 months
+
+### Advanced
+* Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
+* Courses: OOP, Algorithms
+* Time: 12 months
+  
+### Expert
+* Target: Understand data analysis and be able to build portfolio management and algorithm trading
+* Courses: Data Analysis, Algorithm Trading
+* Time: 12 momths
 
 ## Schedule
 
