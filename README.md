@@ -4,25 +4,25 @@ This course is intended for kids to learn computer coding and be able to solve r
 
 ## Levels
 
-### Interest
+### 0. Interest
 * Audience: Age 6 - 10 
 * Target: Understand use of computer software and be able to create vidoes, presentations, websites and coding blocks
 * Courses: iMovie，Keynote, Scratch, Wix
 * Time: 12 months
   
-### Beginner
+### 1. Beginner
 * Audience: Age 10 - 13 
 * Target: Understand basic computer coding and be able to solve math problems as well as create online games
 * Courses: Python, PyGame, Turtle, JavaScript, Roblox
 * Time: 12 months
 
-### Advanced
+### 2. Advanced
 * Audience: Age 13 - 15 
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
 * Courses: OOP, Algorithms
 * Time: 12 months
   
-### Expert
+### 3. Expert
 * Audience: Age 15+ 
 * Target: Understand data analysis and be able to build portfolio management and algorithm trading
 * Courses: Data Analysis, Algorithm Trading
@@ -75,11 +75,11 @@ This course is intended for kids to learn computer coding and be able to solve r
 
 * 	[How To Animate In Keynote (Beginners Tutorial)](https://www.youtube.com/watch?v=GTVFw3CzYUA)
 
-**Wix**
+**Wix - Create website for e-commerce**
 
 * 	[Wix Tutorial 2021(Full Tutorial For Beginners) - Create A Professional Website](https://www.youtube.com/watch?v=nIKbN5pBSXo)
 
-**Scratch**
+**Scratch - Create games with coding blocks**
 
 * 	[Square](https://www.youtube.com/watch?v=EbBbWfvbMiU)
 * 	[Polygons](https://www.youtube.com/watch?v=KFwgPVjMjak)
