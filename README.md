@@ -100,6 +100,13 @@ This course is intended for kids to learn computer coding and be able to solve r
 * [Data Structure](https://www.raspberrypi.org/learning/visualising-sorting-with-python/lessons/)
 * [Algorithms](http://interactivepython.org )
 
+
+### Expert Courses Github:
+* [Algorithmic Trading in Python](https://github.com/data-octo/algorithmic-trading-python)
+* [AI Trading for Cryptocurrency, Stock and Forex](https://github.com/data-octo/AITrading)
+* [Python for Banking Finance](https://github.com/data-octo/python-for-banking-finance)
+
+
 ---
 
 ## [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
