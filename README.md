@@ -102,10 +102,10 @@ Scratch - Create games with coding blocks
 
 
 ### Expert Courses Github:
-* [Algorithmic Trading in Python](https://github.com/data-octo/algorithmic-trading-python)
+* [Portfolio Management with Python](https://github.com/data-octo/algorithmic-trading-python)
+* [Quant Trading with BackTrader](https://github.com/data-octo/quant-learning)
 * [AI Trading for Cryptocurrency, Stock and Forex](https://github.com/data-octo/AITrading)
 * [Python for Banking Finance](https://github.com/data-octo/python-for-banking-finance)
-
 
 ---
 
