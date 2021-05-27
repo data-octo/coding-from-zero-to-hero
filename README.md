@@ -19,7 +19,7 @@ This course is intended for kids to learn computer coding and be able to solve r
 ### 2. Advanced
 * Audience: Age 13 - 15 
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
-* Courses: Roblox, OOP, Algorithms
+* Courses: Roblox, OOP, Algorithms, Data Structure
 * Time: 12 months
   
 ### 3. Expert
