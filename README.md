@@ -13,28 +13,26 @@ This course is intended for kids to learn computer coding and be able to solve r
 ### 1. Beginner
 * Audience: Age 10 - 13 
 * Target: Understand basic computer coding and be able to solve math problems as well as create online games
-* Courses: Python, PyGame, Turtle, JavaScript, Roblox
+* Courses: Python, PyGame, Turtle, JavaScript, Computer Science
 * Time: 12 months
 
 ### 2. Advanced
 * Audience: Age 13 - 15 
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
-* Courses: OOP, Algorithms
+* Courses: Roblox, OOP, Algorithms
 * Time: 12 months
   
 ### 3. Expert
 * Audience: Age 15+ 
 * Target: Understand data analysis and be able to build portfolio management and algorithm trading
-* Courses: Data Analysis, Algorithm Trading
+* Courses: Data Analysis, Algorithm Trading, Portfolio Management
 * Time: 12 months
 
-![picture 1](images/b2913c522b9813e76be906b5518cf1487206ac95c95c5636d39586696664c08b.png)  
+ <img src="images/b2913c522b9813e76be906b5518cf1487206ac95c95c5636d39586696664c08b.png" style="zoom:50%;" />
 
-
-## Schedule
-
-### Beginner Courses
-![picture 1](images/2ca509416c865aafa886734dcd509b41bb8f39e5ec79a8dd6ca932e7917c2a68.png)  
+## Courses Overview
+![picture 2](images/c2bd9862468b12d09fcb2bc22458f88e3c8a009301a5f8cf9f59fcbee7f678d6.png)  
+ 
 
 ## Prerequisites
 
