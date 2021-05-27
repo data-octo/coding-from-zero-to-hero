@@ -10,3 +10,4 @@ Understand use of Apple Keynote for presentation of school projects and be able 
 
 ## Project Demo
 
+See files in demo folder.

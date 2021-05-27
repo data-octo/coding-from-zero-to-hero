@@ -12,3 +12,4 @@ Understand use of Apple iMovie for creating movies and trailers. Also be able to
 
 ## Project Demo
 
+See files in demo folder.
