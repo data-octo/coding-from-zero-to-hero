@@ -28,7 +28,8 @@ This course is intended for kids to learn computer coding and be able to solve r
 * Courses: Data Analysis, Algorithm Trading
 * Time: 12 months
 
-![picture 1](images/1a9949892fdfbd992e2845ea35d21c814f0deaeb4d37f6125f74bede9036bba1.png)  
+![picture 1](images/b2913c522b9813e76be906b5518cf1487206ac95c95c5636d39586696664c08b.png)  
+
 
 ## Schedule
 

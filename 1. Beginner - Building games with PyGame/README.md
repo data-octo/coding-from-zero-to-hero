@@ -1,5 +1,11 @@
 # Build Games with PyGame
 
+## Course Objective
+
+Understand Python and PyGame. Be able to create simple games with PyGame.
+
+## Course Materials
+
 ### Video
 
 https://www.youtube.com/playlist?list=PL1D91F4E6E79E73E1

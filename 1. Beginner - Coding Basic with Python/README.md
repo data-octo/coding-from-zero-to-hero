@@ -6,6 +6,8 @@ Learn basic coding concept with python programming language with 12 lessons, 30 
 
 After learning the course, you will be able to write compupter programs with conditions, loops, and functions. And this will build foundation for further computer coding studying. 
 
+This course will also help you understand how to automate mouse click and keyboard input for better performing in video games.
+
 ## Course Material
 
 ### Book

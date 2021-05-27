@@ -1,6 +1,11 @@
 # Math with Python Turtle
 
-## Book
+## Course Objective
+
+- Understand use of Python Turtle module for drawing
+- Solve math questions with Python Turtle
+
+## Course Materials
 
 ![picture 1](../images/c03cc7bb1436d278368af9793339b4bf22f6fdcc113e8fd98a5fc9b9fc857bfd.png)  
 
