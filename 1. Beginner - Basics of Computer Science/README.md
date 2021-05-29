@@ -1,8 +1,14 @@
 # Basics of Computer Science
 
-Book from [DK Help Your Kids with Computer Science](https://www.amazon.ca/Help-Your-Kids-Computer-Science/dp/1465473602).
+## Course Objective
 
-Video: [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
+Understand computer hardware, software, network, and internet. 
+
+## Course Materials
+
+- Book from [DK Help Your Kids with Computer Science](https://www.amazon.ca/Help-Your-Kids-Computer-Science/dp/1465473602).
+
+- Video: [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 
 ## About Help Your Kids with Computer Coding
 
