@@ -2,22 +2,32 @@
 
 This course is intended for kids to learn computer coding and be able to solve real world problems with programming skills. Learning to code is very much like learning a new language – it gives kids a fluency not just in technology, but also in the language of creativity. Programming is part of the development of a valuable technical and creative skill set that will grow with them into adulthood, enabling them to thrive in our ever growing digital world.
 
+## How to use
+
+### If you are a parent with good computer knowledge
+1. Play course videos and pause for Q&A when needed
+2. Recap with course materials like Jupyter Notebook or textbook
+3. Have kids practice and submit their code to GitHub for review
+
+### If you are a parent with little computer knowledge
+It'll be better to sign up kids with a tutor who has good computer knowledge.
+
 ## Levels
 
 ### 0. Interest
-* Audience: Age 6 - 10 
+* Audience: Age 6+
 * Target: Understand use of computer software and be able to create vidoes, presentations, websites and coding blocks
 * Courses: iMovie，Keynote, Scratch, Wix
 * Time: 12 months
   
 ### 1. Beginner
-* Audience: Age 10 - 13 
+* Audience: Age 10+ 
 * Target: Understand basic computer coding and be able to solve math problems as well as create online games
 * Courses: Python, PyGame, Turtle, JavaScript, Computer Science
 * Time: 12 months
 
 ### 2. Advanced
-* Audience: Age 13 - 15 
+* Audience: Age 13+
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
 * Courses: Roblox, OOP, Algorithms, Data Structure, Python by Example
 * Time: 12 months
@@ -37,12 +47,12 @@ This course is intended for kids to learn computer coding and be able to solve r
 ## Prerequisites
 
 ### Hardware 
-* Computer: Desktop, Laptop, Tablet
+* Computer: Desktop, Laptop
 * Internet
 
 ### Software Installation
 * Coding IDE: [VSCode](https://code.visualstudio.com/download)
-* Python Coding: [Anaconda](https://www.anaconda.com/download/#macos)
+* Python Software: [Anaconda](https://www.anaconda.com/download/#macos)
 
 ### Software Online 
 * Scratch Coding: [Scratch](https://scratch.mit.edu/)
