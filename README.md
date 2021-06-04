@@ -7,10 +7,10 @@ This course is intended for kids to learn computer coding and be able to solve r
 ### If you are a parent with good computer knowledge
 1. Play course videos and pause for Q&A when needed
 2. Recap with course materials like Jupyter Notebook or textbook
-3. Have kids practice and submit their code to GitHub for review
+3. Have kids practice and submit their assignment to GitHub for review
 
 ### If you are a parent with little computer knowledge
-It'll be better to sign up kids with a tutor who has good computer knowledge.
+It'll be better to sign up kids with a tutor who has good computer knowledge as it's important to answer their questions and address coding issues when they are learning so that they can maintain their interest and will not stop because of problems.
 
 ## Levels
 
