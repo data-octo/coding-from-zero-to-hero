@@ -39,7 +39,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 * Courses: Data Analysis, Algorithm Trading, Portfolio Management, Python for Finance
 * Time: 12 months
 
- <img src="images/b2913c522b9813e76be906b5518cf1487206ac95c95c5636d39586696664c08b.png" style="zoom:50%;" />
+ <img src="images/7cee968e08953f76d009d54f9b0e038348d2a35780914242fe1096ec3416434c.png" style="zoom:50%;" />
 
 ## Courses Overview
 ![picture 1](images/4b04872b54f407e13c37b8d8a05964d52ea825ccc6c1be3b1055341bebdef963.png)  
