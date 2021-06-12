@@ -5,9 +5,10 @@ This course is intended for kids to learn computer coding and be able to solve r
 ## How to use
 
 ### If you are a parent with good computer knowledge
-1. Play course videos and pause for Q&A when needed
-2. Recap with course materials like Jupyter Notebook or textbook
-3. Have kids practice and submit their assignment to GitHub for review
+1. Have kids star and fork the GitHub repository
+2. Play course videos for teaching and pause for Q&A when needed
+3. Recap with course materials like Jupyter Notebook or textbook
+4. Have kids practice and submit their assignment to GitHub for review
 
 ### If you are a parent with little computer knowledge
 It'll be better to sign up kids with a tutor who has good computer knowledge as it's important to answer their questions and address coding issues when they are learning so that they can maintain their interest and will not stop because of problems.
@@ -29,7 +30,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 ### 2. Advanced
 * Audience: Age 13+
 * Target：Understand advanced computer coding and be able to create games in production as well as attend coding competitions
-* Courses: Roblox, OOP, Algorithms, Data Structure, Python by Example
+* Courses: Roblox, OOP, Algorithms, Data Structure, Python by Example, Dart & Flutter
 * Time: 12 months
   
 ### 3. Expert
@@ -61,16 +62,6 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 ### Good to know
 - Repository Management: [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - Documentation: [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
-
-
-## Hands on Projects
-- Youtube Videos
-- Ecommerce Websites
-- Scratch Games
-- Python Turtle Drawings
-- Python Pygame Games
-- Python Financial Data Analysis
-- Python Algorithm Trading
 
 ## Courses Design
 
@@ -110,6 +101,8 @@ Scratch - Create games with coding blocks
 * [Game Development with Pygame](https://www.youtube.com/playlist?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw)
 * [Data Structure](https://www.raspberrypi.org/learning/visualising-sorting-with-python/lessons/)
 * [Algorithms](http://interactivepython.org )
+* [Dart](https://dart.dev/#try-dart)
+* [Dart Pad](https://dartpad.dev/?null_safety=true)
 
 
 ### Expert Courses Github:
@@ -119,6 +112,16 @@ Scratch - Create games with coding blocks
 * [Python for Banking Finance](https://github.com/data-octo/python-for-banking-finance)
 
 ---
+
+## Hands on Projects
+- Youtube Videos
+- Ecommerce Websites
+- Scratch Games
+- Python Turtle Drawings
+- Python Pygame Games
+- Python Financial Data Analysis
+- Python Algorithm Trading
+
 
 ## [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing/details.html)
 
