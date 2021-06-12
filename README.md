@@ -42,8 +42,8 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
  <img src="images/b2913c522b9813e76be906b5518cf1487206ac95c95c5636d39586696664c08b.png" style="zoom:50%;" />
 
 ## Courses Overview
-![picture 2](images/c2bd9862468b12d09fcb2bc22458f88e3c8a009301a5f8cf9f59fcbee7f678d6.png)  
- 
+![picture 1](images/4b04872b54f407e13c37b8d8a05964d52ea825ccc6c1be3b1055341bebdef963.png)  
+
 
 ## Prerequisites
 
