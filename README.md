@@ -15,6 +15,8 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 
 ## Levels
 
+<img src="images/course_design.drawio.svg" style="zoom:100%;" />
+
 ### 0. Interest
 * Audience: Age 6+
 * Target: Understand use of computer software and be able to create vidoes, presentations, websites and coding blocks
@@ -39,7 +41,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 * Courses: Data Analysis, Algorithm Trading, Portfolio Management, Python for Finance
 * Time: 12 months
 
- <img src="images/course_design.drawio.svg" style="zoom:80%;" />
+ 
 
 ## Courses Overview
 ![picture 1](images/course_structure.drawio.svg)  
