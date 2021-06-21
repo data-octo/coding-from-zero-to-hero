@@ -42,12 +42,22 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 * Time: 12 months
 
 ## Course Schedule
+
+### Weekdays Schedule 
 |          | Monday                                                                 | Tuesday                                                    | Wednesday                                                       | Thursday                                                     | Friday                                                     |
 |----------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
 | Interest | iMovie (60 mins/session, 12 sessions)                                  | Keynote (60 mins/session, 12 sessions)                     | Scratch (60 mins/session, 12 sessions)                          | Wix (60 mins/session, 12 sessions)                           |                                                            |
 | Basic    | Python Basics (60 mins/session, 12 sessions)                           | Math with Python Turtle  (60 mins/session, 12 sessions)    | Game with PyGame (60 mins/session, 12 sessions)                 | Computer Science Basics (60 mins/session, 8 sessions)        | JavaScript Basics (60 mins/session, 8 sessions)            |
 | Advanced | Object Oriented Programming with Python (60 mins/session, 12 sessions) | Data Structure & Algorithms (60 mins/session, 12 sessions) | Python by Examples (60 mins/session, 12 sessions)               | Roblox Scripting (60 mins/session, 12 sessions)              | Dart & Flutter (60 mins/session, 12 sessions)              |
 | Expert   | Python for Finance (60 mins/session, 12 sessions)                      | Data Analysis with Python (60 mins/session, 12 sessions)   | Portfolio Management with Python (60 mins/session, 12 sessions) | Algorithm Trading with Python (60 mins/session, 12 sessions) | Digital Wallet with Flutter (60 mins/session, 12 sessions) | 
+
+### Summer Camp Schedule 
+|          | Week 1                                                                 | Week 2                                                    | Week 3                                                       | Week 4                                                     | Week 5                                                     |
+|----------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
+| Interest | iMovie (120 mins/session, 5 sessions)                                  | Keynote (120 mins/session, 5 sessions)                     | Scratch (120 mins/session, 5 sessions)                           | Wix (120 mins/session, 5 sessions)                            |                                                            |
+| Basic    | Python Basics (120 mins/session, 5 sessions)                           | Math with Python Turtle  (120 mins/session, 5 sessions)    | Game with PyGame (120 mins/session, 5 sessions)                 | Computer Science Basics (120 mins/session, 5 sessions)         | JavaScript Basics (120 mins/session, 5 sessions)            |
+| Advanced | Object Oriented Programming with Python (120 mins/session, 5 sessions) | Data Structure & Algorithms (120 mins/session, 5 sessions) | Python by Examples (120 mins/session, 5 sessions)               | Roblox Scripting (120 mins/session, 5 sessions)              | Dart & Flutter (120 mins/session, 5 sessions)              |
+| Expert   | Python for Finance (120 mins/session, 5 sessions)                      | Data Analysis with Python (120 mins/session, 5 sessions)   | Portfolio Management with Python (120 mins/session, 5 sessions) | Algorithm Trading with Python (120 mins/session, 5 sessions) | Digital Wallet with Flutter (120 mins/session, 5 sessions) | 
 
 ## Courses Structure
 ![picture 1](images/course_structure.drawio.svg)  
