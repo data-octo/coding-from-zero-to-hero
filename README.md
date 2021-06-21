@@ -13,7 +13,7 @@ This course is intended for kids to learn computer coding and be able to solve r
 ### If you are a parent with little computer knowledge
 It'll be better to sign up kids with a tutor who has good computer knowledge as it's important to answer their questions and address coding issues when they are learning so that they can maintain their interest and will not stop because of problems.
 
-## Levels
+## Course Levels
 
 <img src="images/course_design.drawio.svg" style="zoom:100%;" />
 
@@ -41,13 +41,18 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 * Courses: Data Analysis, Algorithm Trading, Portfolio Management, Python for Finance
 * Time: 12 months
 
- 
+## Course Schedule
+|          | Monday                                                                 | Tuesday                                                    | Wednesday                                                       | Thursday                                                     | Friday                                                     |
+|----------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
+| Interest | iMovie (60 mins/session, 12 sessions)                                  | Keynote (60 mins/session, 12 sessions)                     | Scratch (60 mins/session, 12 sessions)                          | Wix (60 mins/session, 12 sessions)                           |                                                            |
+| Basic    | Python Basics (60 mins/session, 12 sessions)                           | Math with Python Turtle  (60 mins/session, 12 sessions)    | Game with PyGame (60 mins/session, 12 sessions)                 | Computer Science Basics (60 mins/session, 8 sessions)        | JavaScript Basics (60 mins/session, 8 sessions)            |
+| Advanced | Object Oriented Programming with Python (60 mins/session, 12 sessions) | Data Structure & Algorithms (60 mins/session, 12 sessions) | Python by Examples (60 mins/session, 12 sessions)               | Roblox Scripting (60 mins/session, 12 sessions)              | Dart & Flutter (60 mins/session, 12 sessions)              |
+| Expert   | Python for Finance (60 mins/session, 12 sessions)                      | Data Analysis with Python (60 mins/session, 12 sessions)   | Portfolio Management with Python (60 mins/session, 12 sessions) | Algorithm Trading with Python (60 mins/session, 12 sessions) | Digital Wallet with Flutter (60 mins/session, 12 sessions) | 
 
-## Courses Overview
+## Courses Structure
 ![picture 1](images/course_structure.drawio.svg)  
 
-
-## Prerequisites
+## Learning Prerequisites
 
 ### Hardware 
 * Computer: Desktop, Laptop
@@ -65,7 +70,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 - Repository Management: [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - Documentation: [Markdown](https://www.youtube.com/watch?v=6A5EpqqDOdk&t=263s)
 
-## Courses Design
+## Courses Materials
 
 ### Interest Courses Videos
 
