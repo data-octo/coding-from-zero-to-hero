@@ -43,7 +43,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 
 ## Course Schedule
 
-### Weekdays Schedule 
+### After School Schedule 
 |          | Monday                                                                 | Tuesday                                                    | Wednesday                                                       | Thursday                                                     | Friday                                                     |
 |----------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
 | Interest | iMovie (60 mins/session, 12 sessions)                                  | Keynote (60 mins/session, 12 sessions)                     | Scratch (60 mins/session, 12 sessions)                          | Wix (60 mins/session, 12 sessions)                           |                                                            |
@@ -51,7 +51,7 @@ It'll be better to sign up kids with a tutor who has good computer knowledge as 
 | Advanced | Object Oriented Programming with Python (60 mins/session, 12 sessions) | Data Structure & Algorithms (60 mins/session, 12 sessions) | Python by Examples (60 mins/session, 12 sessions)               | Roblox Scripting (60 mins/session, 12 sessions)              | Dart & Flutter (60 mins/session, 12 sessions)              |
 | Expert   | Python for Finance (60 mins/session, 12 sessions)                      | Data Analysis with Python (60 mins/session, 12 sessions)   | Portfolio Management with Python (60 mins/session, 12 sessions) | Algorithm Trading with Python (60 mins/session, 12 sessions) | Digital Wallet with Flutter (60 mins/session, 12 sessions) | 
 
-### Summer Camp Schedule 
+### Summer Break Schedule 
 |          | Week 1                                                                 | Week 2                                                    | Week 3                                                       | Week 4                                                     | Week 5                                                     |
 |----------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
 | Interest | iMovie (120 mins/session, 5 sessions)                                  | Keynote (120 mins/session, 5 sessions)                     | Scratch (120 mins/session, 5 sessions)                           | Wix (120 mins/session, 5 sessions)                            |                                                            |
