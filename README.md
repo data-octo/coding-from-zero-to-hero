@@ -1,4 +1,4 @@
-# Happy Coding Kids
+# Coding from Zero to Hero
 
 This course is intended for kids to learn computer coding and be able to solve real world problems with programming skills. Learning to code is very much like learning a new language – it gives kids a fluency not just in technology, but also in the language of creativity. Programming is part of the development of a valuable technical and creative skill set that will grow with them into adulthood, enabling them to thrive in our ever growing digital world.
 
